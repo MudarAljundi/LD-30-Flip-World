@@ -8,7 +8,7 @@ Made in [Flixel library](http://www.flixel.org/) (Action Script 3) using [FlashD
 
 Kindly send me a massage if you have any suggestions, criticisms, or questions for the source code or game! I can be reached at:  
 Email: mj.mantis1@gmail.com  
-Website: mantis1.newgrounds.com
+Personal Site: [mantis1.newgrounds.com](http://mantis1.newgrounds.com/)
 
 ### Game Description:
 Use bottomless pits to evade hazards!
