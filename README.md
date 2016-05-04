@@ -8,13 +8,10 @@ Made in [Flixel library](http://www.flixel.org/) (Action Script 3).
 Use bottomless pits to evade hazards!
 
 
-Left Right / A D: Move
-
-Space: Jump
-
-R: Restart
-
-\- +: Change Volume
+- Left Right / A D: Move
+- Space: Jump
+- R: Restart
+- \- +: Change Volume
 
 
 > v1.01: Re-uploaded web and source with the following changes (all of which are bug fixes):
