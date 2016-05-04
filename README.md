@@ -2,6 +2,8 @@
 
 Game created in 48 hours for Ludum Dare 30 compo. Theme: *Connected Worlds*.
 
+[Play game now!](http://www.newgrounds.com/portal/view/644900) - [LD Page link](http://www.flixel.org/)
+
 Made in [Flixel library](http://www.flixel.org/) (Action Script 3) using [FlashDevelop IDE](http://www.flashdevelop.org/). Sound effects made with [SFXR](http://www.drpetter.se/project_sfxr.html).
 
 Kindly send me a massage if you have any suggestions, criticisms, or questions for the source code or game! I can be reached at:  
