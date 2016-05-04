@@ -1,8 +1,8 @@
 # LD #30 - Flip World source
 
-Game created in 48 hours for Ludum Dare 30 compo.
+Game created in 48 hours for Ludum Dare 30 compo. Theme: *Connected Worlds*.
 
-Made in [Flixel library](http://www.flixel.org/) (Action Script 3).
+Made in [Flixel library](http://www.flixel.org/) (Action Script 3) using [FlashDevelop IDE](http://www.flashdevelop.org/).
 
 ### Game Description:
 Use bottomless pits to evade hazards!
